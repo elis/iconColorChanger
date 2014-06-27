@@ -1,0 +1,23 @@
+{
+  "name": "iconColorChanger",
+  "main": "iconColorChanger.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/elis/iconColorChanger",
+  "authors": [
+    "Eli Sklar <eli.sklar@gmail.com>"
+  ],
+  "description": "A simple way to change the color of a PNG image file and produce a base64 or imageData",
+  "keywords": [
+    "canvas",
+    "color",
+    "icon"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
